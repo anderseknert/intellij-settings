@@ -1,5 +1,10 @@
 <application>
   <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="Go">
+    <option name="renameCorrespondingTestOrProductionFile" value="YES" />
+    <option name="renameDirectoryOnPackageRenaming" value="YES" />
+    <option name="renamePackageOnDirectoryRenaming" value="YES" />
   </component>
 </application>

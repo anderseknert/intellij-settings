@@ -4,60 +4,66 @@
       <component name="ClojureProjectResolveSettings">
         <currentScheme>IDE</currentScheme>
       </component>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
       <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/Kod/Bisnode/gradle-integration-test" value="2942047079000" />
-            <entry key="$USER_HOME$/Kod/Bisnode/spring-boot-microservice" value="2941754119000" />
-            <entry key="$USER_HOME$/Kod/java/constructor-databinding" value="1469400153000" />
-          </map>
-        </option>
         <option name="projectSyncType">
           <map>
-            <entry key="$USER_HOME$/Kod/Solentro/solentro-api" value="PREVIEW" />
-            <entry key="$USER_HOME$/Kod/Solentro/teflen" value="PREVIEW" />
-            <entry key="$USER_HOME$/Kod/java/hw-accelerated-graphics" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/access-token-retriever" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/aml-portfolio-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/anders-hello-world" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/anders-silly-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/aws/tools/scripts/local/test-service-slovenia" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/boss-schema-generator" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/cd-pipeline-dashboard-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/custom-audiences-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/custom-audiences-orchestration" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/decision-no-b2b-dataset-provider-svc" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/dk-demo/dk-tr-demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/enriched-profiles-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/example-kafka-client" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/generate-microservice-nasty-style" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/github/ttl-cache" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/k8s-employment-office" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/kafka-token-auth" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/kubernetes-jobs-demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/lab/demo-target-architecture" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/lab/my-belgian-microservice" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/microservice-spring-boot2-starter" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/omni-uploadtest-orc" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/omni-uploadtest-svc" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/omni-uploadtest-web" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/resilience-workshop/resilience-client" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/resilience-workshop/resilience-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/resilience4j" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/spark-poc" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/spring-boot-microservice" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/storage-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/ttl-cache" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/what-a-demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/zero-to-hero/heroic-microservice" value="PREVIEW" />
           </map>
         </option>
       </component>
-      <component name="NodePackageJsonFileManager">
-        <packageJsonPaths />
-      </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-      <component name="ProjectDictionaryState">
-        <dictionary name="anders" />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
       <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+        <property name="go.import.settings.migrated" value="true" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
-      <component name="RunManager">
-        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-        </configuration>
-        <configuration default="true" type="Applet">
-          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <method v="2">
-            <option name="Make" enabled="true" />
-          </method>
-        </configuration>
-        <configuration default="true" type="Application" factoryName="Application">
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-          <method v="2">
-            <option name="Make" enabled="true" />
-          </method>
-        </configuration>
-        <configuration default="true" type="JUnit" factoryName="JUnit">
-          <option name="TEST_OBJECT" value="class" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-          <method v="2">
-            <option name="Make" enabled="true" />
-          </method>
-        </configuration>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
       </component>
-      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
