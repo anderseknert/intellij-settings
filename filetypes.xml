@@ -1,18 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="TokenVerificationCallbackHandlerSpec.groovy" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern=".shellcheckrc" type="PLAIN_TEXT" />
+      <mapping pattern="StartOpaTask2Test.groovy" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="StartOpaTask2Test.groovy" type="PLAIN_TEXT" />
-      <mapping pattern=".shellcheckrc" type="PLAIN_TEXT" />
       <mapping ext="regp" type="PLAIN_TEXT" />
       <mapping ext="rego" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="bats" type="Shell Script" />
       <mapping pattern="*.yaml.in" type="YAML" />
