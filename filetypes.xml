@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="local-Dockerfile" type="Dockerfile" />
       <mapping pattern="TokenVerificationCallbackHandlerSpec.groovy" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
