@@ -4,7 +4,7 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
-      <instance uuid="07da085b-afef-37be-b58d-ca07bca37fe8" baseUri="https://stash/" />
+      <instance uuid="07da085b-afef-37be-b58d-ca07bca37fe8" baseUri="https://buildtools.bisnode.com/stash/" />
     </instances>
     <lookup>
       <record scheme="ssh" hostname="buildtools.bisnode.com" port="7999" path="/" uuid="07da085b-afef-37be-b58d-ca07bca37fe8" />
