@@ -4,6 +4,7 @@
       <mapping pattern="local-Dockerfile" type="Dockerfile" />
       <mapping ext="tmpl" type="Go template" />
       <mapping pattern="TokenVerificationCallbackHandlerSpec.groovy" type="Groovy" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
