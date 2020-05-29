@@ -5,9 +5,11 @@
   <component name="BitbucketServerRegistry">
     <instances>
       <instance uuid="886ddf16-32c1-3e0f-94a0-74a293df8ea6" baseUri="https://buildtools.bisnode.com/stash/" />
+      <instance uuid="886ddf16-32c1-3e0f-94a0-74a293df8ea6" baseUri="https://buildtools.bisnode.com/stash/" />
     </instances>
     <lookup>
       <record scheme="ssh" hostname="buildtools.bisnode.com" port="7999" path="/" uuid="886ddf16-32c1-3e0f-94a0-74a293df8ea6" />
+      <record scheme="https" hostname="buildtools.bisnode.com" port="-1" path="/stash" uuid="886ddf16-32c1-3e0f-94a0-74a293df8ea6" />
     </lookup>
   </component>
   <component name="Instance" id="d54983e5-563e-4618-9c0d-732bb3f84dfd" version="2020.1.127" />
