@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="local-Dockerfile" type="Dockerfile" />
-      <mapping ext="tmpl" type="Go template" />
       <mapping pattern="TokenVerificationCallbackHandlerSpec.groovy" type="Groovy" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
