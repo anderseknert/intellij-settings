@@ -21,6 +21,7 @@
       <mapping pattern="*.yaml.in" type="YAML" />
       <mapping pattern="*.yml.j2" type="YAML" />
       <mapping pattern="*.yml.template" type="YAML" />
+      <mapping pattern="aws-dev" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
