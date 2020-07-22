@@ -9,6 +9,9 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
+  </yaml>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
