@@ -1,0 +1,16 @@
+<application>
+  <component name="GraziConfig">
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="forward HTTP traffic to" />
+            <option value="logging" />
+            <option value="logs" />
+            <option value="~9 MB with minimal configuration needed" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
