@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <GoCodeStyleSettings>
-    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
-  </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="300" />
